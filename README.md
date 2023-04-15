@@ -22,9 +22,9 @@ little for the limitations found.
 ## Next steps
 
 1. Read VHDL code
-  1.1. Extract comments
-  1.2. Detect packages / entities / architectures
-  1.3. Translate signals
-  1.4. Translate process
+   - Extract comments
+   - Detect packages / entities / architectures
+   - Translate signals
+   - Translate process
 
 ## Issues found
